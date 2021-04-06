@@ -1,4 +1,4 @@
 # Flask Scaffold 
 
-## Start point to Flak apps
+## Start point to Flask apps
 
